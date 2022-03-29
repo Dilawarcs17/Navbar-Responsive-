@@ -1,0 +1,56 @@
+#logostyle {
+  height: 90px;
+  width: 100px;
+  border-radius: 100%;
+}
+
+
+.left {
+  height: 250px;
+  margin-top: 80px;
+  /* border: green 2px solid; */
+}
+.right {
+  height: 250px;
+  /* border: green 2px solid; */
+}
+hr {
+  width: 50%;
+  margin-left: 50vh;
+  margin-top: 50px;
+  /* text-align: center; */
+}
+
+.secmaindev {
+  height: 350px;
+  /* border: 2px solid rgb(0, 0, 0); */
+}
+.robo {
+  border-radius: 50%;
+  /* width: 50%; */
+}
+
+.glob {
+  /* height: 250px; */
+  margin-top: 80px;
+  
+}
+.glbbal {
+  height: 350px;
+}
+.back{
+    padding: 0;
+    height: 400px;
+   
+}
+.big{
+
+    background-image: linear-gradient(rgb(138, 255, 230), rgb(25, 150, 182), rgb(36, 91, 95) );
+    margin-top: 90px;
+    
+
+}
+.data{
+    display: flex;
+justify-content: center;
+align-items: center;}
